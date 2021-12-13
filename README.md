@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there , I am Altynay Sabitzhan from Kazakhstan ! 😃👋
 
 
 - 👩‍🎓 I’m currently a Full-stack Web development student at Business College of Helsinki 🙂.
