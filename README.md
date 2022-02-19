@@ -7,9 +7,7 @@
 - 💬 I work with UX/UI , HTML, CSS, Javascript and React. 
 - 📫 How to reach me: https://www.linkedin.com/in/altynaysabitzhan-8085121a5/ 🙂.
 - ✨ I like painting in my free time.
-- ⚡ Fun fact: If I could download a book directly into my brain, it would be "Eloquent Javascript" 😆!
-
-- 💬 Multilingual: Kazakh(native),  Chinese(native),  English(advanced),  Finnish(Intermediate),  little bit Russian as well.
+- 💬 Multilingual: Kazakh(native),  Chinese(native),  English(advanced),  Finnish(conversational),  little bit Russian as well.
 
 
 
