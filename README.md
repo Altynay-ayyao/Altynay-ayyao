@@ -1,4 +1,4 @@
- Hi there , I am Altynay Sabitzhan, thank you for visiting my profile! 😃👋
+ Hi there , I am Altynay Sabitzhan, thank you for visiting my profile! Feel free to checkout my portfolio:https://altynaysabitzhan-portfolio.netlify.app/ 😃👋
 
 
 - 👩‍🎓 I’m currently a Full-stack Web development student at Business College of Helsinki.
